@@ -1,0 +1,19 @@
+class AssignIntToBool {
+
+    public static void main(String[] args) {
+
+    }
+
+    public boolean foo() {
+        boolean a;
+        int b;
+
+        a = true;
+        b=c;
+
+        a = 10;
+
+        return a;
+    }
+}
+

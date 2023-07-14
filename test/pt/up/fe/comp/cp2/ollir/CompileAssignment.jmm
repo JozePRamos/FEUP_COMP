@@ -1,0 +1,25 @@
+class CompileAssignment {
+
+    public static void main(String[] args) {
+
+        int a;
+        int b;
+        int c;
+        Simple s;
+        a = 20;
+        b = 10;
+        s = new Simple();
+        c = s.add();
+    }
+
+    public int foo() {
+        int a;
+        int b;
+
+        b = 2;
+
+        a = b;
+
+        return 0;
+    }
+}
